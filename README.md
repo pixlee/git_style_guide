@@ -44,8 +44,8 @@ request.
 
   ```shell
   $ git checkout -b feature-a/master # team-wide branch
-  $ git checkout -b feature-a/maria  # Maria's personal branch
-  $ git checkout -b feature-a/nick   # Nick's personal branch
+  $ git checkout -b feature-a/josh  # Josh's personal branch
+  $ git checkout -b feature-a/miraj   # miraj's personal branch
   ```
 
   Merge at will the personal branches to the team-wide branch (see ["Merging"](#merging)).
