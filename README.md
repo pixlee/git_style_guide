@@ -1,4 +1,4 @@
-# Git Style Guide
+# Pixlee Git Style Guide
 
 This is a Git Style Guide inspired by [*How to Get Your Change Into the Linux
 Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches),
